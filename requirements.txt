@@ -1,0 +1,6 @@
+streamlit>=1.29     #frontend framework for web apps
+supabase>2.0.2      #supabase client for db operations
+fastapi>=0.104.1    #backend api framework
+uvicorn>=0.24.0     #asgi server for fastapi
+python-dotenv>=1.0.0    #environmental variable mngmt
+psycopg2-binary>=2.9        # PostgreSQL driver (required for Supabase)
